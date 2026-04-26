@@ -5,7 +5,7 @@ PORT = 8000
 
 class TestMe():
     def take_five(self):
-        return 4   # ❗ специально ошибка для теста
+        return 5   # ❗ специально ошибка для теста
 
     def port(self):
         return PORT
